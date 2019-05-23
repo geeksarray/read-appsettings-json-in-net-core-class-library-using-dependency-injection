@@ -1,0 +1,9 @@
+D:\applications\GeeksArray- Applications\GeeksConfiguration\GeeksConfiguration\bin\Debug\netcoreapp2.1\GeeksConfiguration.deps.json
+D:\applications\GeeksArray- Applications\GeeksConfiguration\GeeksConfiguration\bin\Debug\netcoreapp2.1\GeeksConfiguration.dll
+D:\applications\GeeksArray- Applications\GeeksConfiguration\GeeksConfiguration\bin\Debug\netcoreapp2.1\GeeksConfiguration.pdb
+D:\applications\GeeksArray- Applications\GeeksConfiguration\GeeksConfiguration\obj\Debug\netcoreapp2.1\GeeksConfiguration.csprojAssemblyReference.cache
+D:\applications\GeeksArray- Applications\GeeksConfiguration\GeeksConfiguration\obj\Debug\netcoreapp2.1\GeeksConfiguration.csproj.CoreCompileInputs.cache
+D:\applications\GeeksArray- Applications\GeeksConfiguration\GeeksConfiguration\obj\Debug\netcoreapp2.1\GeeksConfiguration.AssemblyInfoInputs.cache
+D:\applications\GeeksArray- Applications\GeeksConfiguration\GeeksConfiguration\obj\Debug\netcoreapp2.1\GeeksConfiguration.AssemblyInfo.cs
+D:\applications\GeeksArray- Applications\GeeksConfiguration\GeeksConfiguration\obj\Debug\netcoreapp2.1\GeeksConfiguration.dll
+D:\applications\GeeksArray- Applications\GeeksConfiguration\GeeksConfiguration\obj\Debug\netcoreapp2.1\GeeksConfiguration.pdb
