@@ -4,4 +4,4 @@ This blog post explains in .net core class library application how to read confi
 
 The class library does not have a configuration file by default. Dependency injection is already part of .Net Core, you will have to register your dependencies in the ConfigureService method of Startup.cs file.
 
-
+ For more details [click here](https://geeksarray.com/blog/read-appsettings-json-in-net-core-class-library-using-dependency-injection)
