@@ -1,4 +1,4 @@
-# read-appsettings-json-in-net-core-class-library-using-dependency-injection
+# Read appsettings.json in .NET Core Class library using dependency injection 
 
 This blog post explains in .net core class library application how to read configuration settings from the web application's appsettings.json file by injecting dependency of IConfiguration interface.
 
